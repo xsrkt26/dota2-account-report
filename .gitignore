@@ -1,0 +1,18 @@
+# Local investigation data and generated reports
+/work/
+/outputs/
+/data/
+/reports/
+/raw/
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration
+.env
+.env.*
+.DS_Store
+Thumbs.db

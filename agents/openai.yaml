@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dota 2 异常账号分析与举报"
+  short_description: "核验 OpenDota 战绩、聊天和组队证据，生成中英文举报信与文本附件"
+  default_prompt: "使用 $dota2-account-report 分析指定账号的 OpenDota 战绩，核验异常行为，并根据证据生成中英文举报信和 Steam 可上传的 TXT 附件。"
